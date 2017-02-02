@@ -5,13 +5,15 @@
 </head>
 <body>
 
-<body style="background-color:DarkSeaGreen;">
+<body style="background-color:LightGreen;">
 
 <h1 style = "text-align:center; font-family:Avant Garde;"> Rosie Vasquez</h1>
+
 <div style="text-align:center">    
   <a style = "font-family:Avant Garde; color:black; font-size:160%;" href="about.html">About</a>
 </div>
 
+<center><img src="rosiee.jpg" alt="what image shows" height="322" width="322"></center>
 
 </body>
 </html>
